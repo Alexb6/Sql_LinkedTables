@@ -1,0 +1,15 @@
+{
+  "name": "2019-02-26-sql_linkedtables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "produits.js",
+  "dependencies": {
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
