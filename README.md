@@ -1,2 +1,2 @@
 ## SQLite tables
-How to link tables (one to many & manuy to many)
+How to link tables (one to many & many to many)
